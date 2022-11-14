@@ -1,2 +1,51 @@
 # License-and-speed-Detection
 This repository focuses on evaluating real-time traffic videos and identifying license plate numbers and matching vehicle speeds.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## REFERENCE 
+1. https://github.com/ultralytics/yolov5
