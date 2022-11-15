@@ -17,9 +17,24 @@ The objective of the project is to create a UI that will display the speed and n
 ![image](https://user-images.githubusercontent.com/93417245/201829005-49d3f136-aeb9-4da2-8c0b-c9f99d68c39b.png)
 
 # METHODOLOGY DESCRIPTION
-1. OCR :- 
+1. Optical character recognition is a technology that recognizes text within a digital image. It is commonly used to recognize text in scanned documents and images. OCR software can be used to convert a physical paper document, or an image into an accessible electronic version with text. A Python library called EasyOCR makes it possible to turn images into text. It has access to over 70 languages, including English, Chinese, Japanese, Korean, Hindi, and many more are being added. It is by far the simplest approach to implement OCR.
+```python
+!pip install easyocr
+import easyocr
+```
+
+2. YOLO an acronym for 'You only look once', is an object detection algorithm that divides images into a grid system. Each cell in the grid is responsible for detecting objects within itself. After the release of YOLOv4 Glenn Jocher introduced YOLOv5 using the Pytorch framework. YOLOv5 is one of the most famous object detection algorithms due to its speed and accuracy.
+```python
+git clone https://github.com/ultralytics/yolov5  # clone
+cd yolov5
+pip install -r requirements.txt  # install
+import torch
+```
 
 
+
+3. The computer vision research community frequently uses the benchmarking dataset Common Objects in Context (COCO). Even general practitioners working in the field can use it. COCO contains over 330,000 images, of which more than 200,000 are labelled, across dozens of categories of objects. The COCO dataset is designed to represent a vast array of things that we regularly encounter in everyday life, from vehicles like bikes to animals like dogs to people.
+![image](https://user-images.githubusercontent.com/93417245/201977681-7ee84ef0-e747-4f12-943f-bac288da2f68.png)
 
 # BUSINESS POTENTIAL 
 
@@ -74,4 +89,5 @@ https://user-images.githubusercontent.com/93417245/201831958-14034f28-bf02-4688-
 7. https://www.geeksforgeeks.org/python-opencv-cv2-puttext-method/                                                  
 8. https://pyimagesearch.com/2020/09/14/getting-started-with-easyocr-for-optical-character-recognition/                                                           
 9. https://docs.opencv.org/4.x/dc/da5/tutorial_py_drawing_functions.html
-10.  
+10. https://cocodataset.org/#home
+
