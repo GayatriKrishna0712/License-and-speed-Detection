@@ -36,6 +36,9 @@ import torch
 3. The computer vision research community frequently uses the benchmarking dataset Common Objects in Context (COCO). Even general practitioners working in the field can use it. COCO contains over 330,000 images, of which more than 200,000 are labelled, across dozens of categories of objects. The COCO dataset is designed to represent a vast array of things that we regularly encounter in everyday life, from vehicles like bikes to animals like dogs to people.
 ![image](https://user-images.githubusercontent.com/93417245/201977681-7ee84ef0-e747-4f12-943f-bac288da2f68.png)
 
+
+4. Object tracking is an important task in computer vision. Object trackers are an integral part of many computer vision applications that process the video stream of cameras. 
+
 # BUSINESS POTENTIAL 
 
 # RESULT
