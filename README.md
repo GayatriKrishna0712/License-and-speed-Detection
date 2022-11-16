@@ -85,7 +85,7 @@ https://user-images.githubusercontent.com/93417245/201831958-14034f28-bf02-4688-
 3. https://www.geeksforgeeks.org/python-bilateral-filtering/
 4. https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html
 5. https://docs.opencv.org/4.x/dc/da5/tutorial_py_drawing_functions.html                                          
-6. https://www.oreilly.com/library/view/mastering-opencv-4/9781789344912/16b55e96-1027-4765-85d8-ced8fa071473.xhtml                                 3.
+6. https://www.oreilly.com/library/view/mastering-opencv-4/9781789344912/16b55e96-1027-4765-85d8-ced8fa071473.xhtml                                 
 7. https://www.geeksforgeeks.org/python-opencv-cv2-puttext-method/                                                  
 8. https://pyimagesearch.com/2020/09/14/getting-started-with-easyocr-for-optical-character-recognition/                                                           
 9. https://docs.opencv.org/4.x/dc/da5/tutorial_py_drawing_functions.html
