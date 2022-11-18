@@ -44,7 +44,7 @@ label_names = {2: 'car', 5: 'bus', 7: 'truck'}
     * Kalman filter is a linear approximation. It predicts what is the future location of the dected object. Uses of these future predictions are:
         * Predict whether the object that we were tracking was the same object or not. 
         * Deal with the problem of occlusion
-
+    * IoU stands for intersection over union
 # BUSINESS POTENTIAL 
 
 # RESULT
