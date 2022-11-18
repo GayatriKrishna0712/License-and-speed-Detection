@@ -39,7 +39,7 @@ label_names = {2: 'car', 5: 'bus', 7: 'truck'}
 ```
 
 
-5. Object tracking is an important task in computer vision. Object trackers are an integral part of many computer vision applications that process the video stream of cameras.  SORT stands for Simple Online Real-time Tracking. The simple Sort Algorithm using bounding box prediction, Kalman filter and IoU matching. 
+5. Object tracking is an important task in computer vision. Object trackers are an integral part of many computer vision applications that process the video stream of cameras.  SORT stands for Simple Online Real-time Tracking. The simple Sort Algorithm uses bounding box prediction, Kalman filter and IoU matching. 
     * Bounding box prediction, The first step is detect where are the images present in the image. This can be accomplished using any CNN architecture, YOLO,R-CNN etc.
     * Kalman filter is a linear approximation. It predicts what is the future location of the dected object. Uses of these future predictions are:
         * Predict whether the object that we were tracking was the same object or not. 
