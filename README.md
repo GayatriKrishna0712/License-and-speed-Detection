@@ -31,15 +31,15 @@ pip install -r requirements.txt  # install
 import torch
 ```
 
+3. Performance is frequently improved by pre-training a model on a very large dataset to acquire useful representations, and then fine-tuning it on the relevant task. This is done using Transfer learning
 
-
-3. The computer vision research community frequently uses the benchmarking dataset Common Objects in Context (COCO). Even general practitioners working in the field can use it. COCO contains over 330,000 images, of which more than 200,000 are labelled, across dozens of categories of objects. The COCO dataset is designed to represent a vast array of things that we regularly encounter in everyday life, from vehicles like bikes to animals like dogs to people.
+4. The computer vision research community frequently uses the benchmarking dataset Common Objects in Context (COCO). Even general practitioners working in the field can use it. COCO contains over 330,000 images, of which more than 200,000 are labelled, across dozens of categories of objects. The COCO dataset is designed to represent a vast array of things that we regularly encounter in everyday life, from vehicles like bikes to animals like dogs to people.
 ```python 
 label_names = {2: 'car', 5: 'bus', 7: 'truck'}
 ```
 
 
-4. Object tracking is an important task in computer vision. Object trackers are an integral part of many computer vision applications that process the video stream of cameras. 
+5. Object tracking is an important task in computer vision. Object trackers are an integral part of many computer vision applications that process the video stream of cameras. 
 
 # BUSINESS POTENTIAL 
 
