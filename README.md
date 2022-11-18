@@ -44,7 +44,7 @@ label_names = {2: 'car', 5: 'bus', 7: 'truck'}
     * Kalman filter is a linear approximation. It predicts what is the future location of the dected object. Uses of these future predictions are:
         * Predict whether the object that we were tracking was the same object or not. 
         * Deal with the problem of occlusion
-    * IoU stands for intersection over union
+    * IoU stands for intersection over union. It determines how much the two bounding boxes are similar to each other. In our we have there are n number of vehicles we are detecting in a particlar frame and we have n IDs that we need to assign to these particular vehicles. IDs are important to determine which object we are tracking. So we need to assign n detection to n IDs. For each ID we have the IoU score corresponding to each detection
 # BUSINESS POTENTIAL 
 
 # RESULT
